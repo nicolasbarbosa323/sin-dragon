@@ -1,5 +1,5 @@
 local sound = Instance.new("Sound")
-sound.SoundId = "rbxassetid://1843497734"
+sound.SoundId = "rbxassetid://1837824826"
 sound.Looped = true  -- Faz a música tocar em loop
 sound.Volume = 1
 sound.Parent = game.Workspace  -- Define o local onde o som será reproduzido
